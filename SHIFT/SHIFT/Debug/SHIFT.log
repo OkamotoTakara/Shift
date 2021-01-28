@@ -1,7 +1,0 @@
-﻿  Player.cpp
-C:\チーム制作\SHIFT\SHIFT\Player.cpp(3,26): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
-C:\チーム制作\SHIFT\SHIFT\Player.cpp(144,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\チーム制作\SHIFT\SHIFT\Player.cpp(144,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\チーム制作\SHIFT\SHIFT\Player.cpp(149,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\チーム制作\SHIFT\SHIFT\Player.cpp(149,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-  SHIFT.vcxproj -> C:\チーム制作\SHIFT\Debug\SHIFT.exe

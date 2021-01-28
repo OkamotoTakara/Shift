@@ -1,5 +1,6 @@
 #pragma once
 #include "DxLib.h"
+#include <cmath>
 
 const char TITLE[] = "学籍番号名前：タイトル";
 
@@ -22,7 +23,6 @@ protected:
 	XINPUT_STATE input;
 	XINPUT_STATE oldInput;
 public:
-	int modeChange(int whatType);
 	int plCollide(float x1, float y1, float radius1, float x2, float y2, float radius2);
 };
 
