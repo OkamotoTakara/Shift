@@ -31,3 +31,6 @@
 *.out
 *.app
 *.opendb
+
+# Directory
+/SHIFT/.vs/*
